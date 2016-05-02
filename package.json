@@ -1,0 +1,32 @@
+{
+  "name": "custom-util-format",
+  "version": "0.0.0",
+  "description": "Customizable version of node's util.format() function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "util.format",
+    "format",
+    "sprintf"
+  ],
+  "author": "Spencer Alger <email@spalger.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.4.5"
+  },
+  "homepage": "https://github.com/spalger/custom-util-format#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spalger/custom-util-format.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spalger/custom-util-format/issues"
+  },
+  "engines": {
+    "node": ">=4.2"
+  }
+}
